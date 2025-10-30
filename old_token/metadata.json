@@ -1,0 +1,12 @@
+{
+    "name": "Old Token",
+    "symbol": "OLDT",
+    "description": "Only Possible On Solana",
+    "image": "https://raw.githubusercontent.com/hadysysdev/solana_token_meta_data/refs/heads/main/old_token/OLDT.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
